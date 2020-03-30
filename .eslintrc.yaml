@@ -774,7 +774,7 @@ rules:
   react/no-typos:
   - warn
   react/no-unescaped-entities:
-  - warn
+  - off
   react/no-unknown-property:
   - warn
   react/no-unsafe:
