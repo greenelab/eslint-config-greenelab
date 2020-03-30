@@ -1,4 +1,4 @@
-### eslint-config-rubinetti
+### eslint-config-greenelab
 
 ESLint config for React applications
 
@@ -23,7 +23,7 @@ What you see in this config is exactly what you should get, without exception or
 
 ### Installation
 
-`yarn add --dev git+https://git@github.com/vincerubinetti/eslint-config-rubinetti.git`
+`yarn add --dev git+https://git@github.com/greenelab/eslint-config-greenelab.git`
 
 
 
@@ -35,7 +35,7 @@ In a `.eslintrc.yaml` file:
 
 ```yaml
 extends:
-  - rubinetti
+  - greenelab
 ```
 
 
@@ -60,7 +60,7 @@ In a `.eslintrc.yaml` file:
 ```yaml
 extends:
   - react-app
-  - rubinetti
+  - greenelab
 ```
 
 

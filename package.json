@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-rubinetti",
+  "name": "eslint-config-greenelab",
   "version": "1.0.0",
   "description": "ESLint config for React applications",
   "license": "MIT",
