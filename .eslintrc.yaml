@@ -722,7 +722,7 @@ rules:
   react/destructuring-assignment:
   - off
   react/display-name:
-  - warn
+  - off
   react/forbid-component-props:
   - off
   react/forbid-dom-props:
