@@ -427,7 +427,7 @@ rules:
   - code: 80
     comments: 80
     tabWidth: 2
-    ignorePattern: true
+    ignorePattern
     ignoreComments: true
     ignoreTrailingComments: true
     ignoreUrls: true
