@@ -427,6 +427,13 @@ rules:
   - code: 80
     comments: 80
     tabWidth: 2
+    ignorePattern: true
+    ignoreComments: true
+    ignoreTrailingComments: true
+    ignoreUrls: true
+    ignoreStrings: true
+    ignoreTemplateLiterals: true
+    ignoreRegExpLiterals: true
   max-lines:
   - off
   max-lines-per-function:
